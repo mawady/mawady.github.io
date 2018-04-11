@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohamed Elawady Webpage on Mohamed Elawady Webpage</title>
+    <link>https://mawady.github.io/</link>
+    <description>Recent content in Mohamed Elawady Webpage on Mohamed Elawady Webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Wavelet-based Reflection Symmetry Detection via Textural and Color Histograms</title>
+      <link>https://mawady.github.io/publication/sym1/</link>
+      <pubDate>Tue, 11 Apr 2017 06:05:46 +0200</pubDate>
+      
+      <guid>https://mawady.github.io/publication/sym1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
