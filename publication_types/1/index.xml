@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 06:05:46 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 06:05:46 +0200</lastBuildDate>
     
 	<atom:link href="https://mawady.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,36 @@
     <item>
       <title>Wavelet-based Reflection Symmetry Detection via Textural and Color Histograms</title>
       <link>https://mawady.github.io/publication/sym1/</link>
-      <pubDate>Tue, 11 Apr 2017 06:05:46 +0200</pubDate>
+      <pubDate>Wed, 11 Oct 2017 06:05:46 +0200</pubDate>
       
       <guid>https://mawady.github.io/publication/sym1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Reflection Symmetry Detection via Linear-Directional Kernel Density Estimation</title>
+      <link>https://mawady.github.io/publication/sym-kde/</link>
+      <pubDate>Sat, 12 Aug 2017 03:36:34 +0200</pubDate>
+      
+      <guid>https://mawady.github.io/publication/sym-kde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global bilateral symmetry detection using multiscale mirror histograms</title>
+      <link>https://mawady.github.io/publication/sym-gbt/</link>
+      <pubDate>Wed, 12 Oct 2016 03:56:20 +0200</pubDate>
+      
+      <guid>https://mawady.github.io/publication/sym-gbt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Nonlinear Filtering and Segmentation for Breast Ultrasound Images</title>
+      <link>https://mawady.github.io/publication/bus-seg/</link>
+      <pubDate>Sun, 12 Jun 2016 04:03:45 +0200</pubDate>
+      
+      <guid>https://mawady.github.io/publication/bus-seg/</guid>
       <description></description>
     </item>
     

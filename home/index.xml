@@ -31,7 +31,7 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Publications</title>
       <link>https://mawady.github.io/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
@@ -67,13 +67,13 @@
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Teaching</title>
       <link>https://mawady.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://mawady.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <description>I have teaching experience in different courses in computer science as a graduate research assistant in Faculty of Computers and Informatics, Suez Canal University, Egypt (2008-2012).
+ Knowledge-Based Systems (Undergraduate) [2009-2010] File Processing and Organization (Undergraduate) [2009-2010] Computer Programming (Undergraduate) [2010] Programming Language Concepts (Undergraduate) [2010]  Also, I participated in undergraduate and postgraduate courses (lectures, tutorials and practical sessions) during 4-years PhD period in international masters programs of Jean Monnet University (COSI, CIMET, 3DMT, MLDM) and Telecom St-Etienne (2014-2018).</description>
     </item>
     
     <item>
