@@ -1,5 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>https://mawady.github.io/publication_types/1/</loc>
+      <lastmod>2017-10-11T06:05:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mawady.github.io/</loc>
+      <lastmod>2017-10-11T06:05:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mawady.github.io/publication_types/</loc>
+      <lastmod>2017-10-11T06:05:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://mawady.github.io/publication/</loc>
+      <lastmod>2017-10-11T06:05:46+02:00</lastmod>
+    </url>
+    
   
     
     
@@ -23,35 +61,18 @@
     
     <url>
     
+      <loc>https://mawady.github.io/publication_types/0/</loc>
+      <lastmod>2017-07-12T04:12:19+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://mawady.github.io/publication/ret-cls/</loc>
       <lastmod>2017-07-12T04:12:19+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://mawady.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://mawady.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://mawady.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -77,6 +98,16 @@
     
     <url>
     
+      <loc>https://mawady.github.io/publication_types/3/</loc>
+      <lastmod>2014-06-12T03:51:24+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://mawady.github.io/publication/coral-msc/</loc>
       <lastmod>2014-06-12T03:51:24+02:00</lastmod>
     </url>
@@ -95,36 +126,6 @@
     
     <url>
     
-      <loc>https://mawady.github.io/publication_types/0/</loc>
-      <lastmod>2017-07-12T04:12:19+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://mawady.github.io/publication_types/1/</loc>
-      <lastmod>2017-10-11T06:05:46+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://mawady.github.io/publication_types/3/</loc>
-      <lastmod>2014-06-12T03:51:24+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://mawady.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -134,9 +135,7 @@
     
     <url>
     
-      <loc>https://mawady.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+02:00</lastmod>
-      <priority>0</priority>
+      <loc>https://mawady.github.io/post/</loc>
     </url>
     
   
@@ -144,9 +143,7 @@
     
     <url>
     
-      <loc>https://mawady.github.io/publication_types/</loc>
-      <lastmod>2017-07-12T04:12:19+02:00</lastmod>
-      <priority>0</priority>
+      <loc>https://mawady.github.io/talk/</loc>
     </url>
     
   
