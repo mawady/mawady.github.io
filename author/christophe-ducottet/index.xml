@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christophe Ducottet | Mohamed Elawady Webpage</title>
+    <link>https://mawady.github.io/author/christophe-ducottet/</link>
+      <atom:link href="https://mawady.github.io/author/christophe-ducottet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christophe Ducottet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 11 Oct 2017 06:05:46 +0200</lastBuildDate>
+    <image>
+      <url>https://mawady.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Christophe Ducottet</title>
+      <link>https://mawady.github.io/author/christophe-ducottet/</link>
+    </image>
+    
+    <item>
+      <title>Wavelet-based Reflection Symmetry Detection via Textural and Color Histograms</title>
+      <link>https://mawady.github.io/publication/sym1/</link>
+      <pubDate>Wed, 11 Oct 2017 06:05:46 +0200</pubDate>
+      <guid>https://mawady.github.io/publication/sym1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Reflection Symmetry Detection via Linear-Directional Kernel Density Estimation</title>
+      <link>https://mawady.github.io/publication/sym-kde/</link>
+      <pubDate>Sat, 12 Aug 2017 03:36:34 +0200</pubDate>
+      <guid>https://mawady.github.io/publication/sym-kde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global bilateral symmetry detection using multiscale mirror histograms</title>
+      <link>https://mawady.github.io/publication/sym-gbt/</link>
+      <pubDate>Wed, 12 Oct 2016 03:56:20 +0200</pubDate>
+      <guid>https://mawady.github.io/publication/sym-gbt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

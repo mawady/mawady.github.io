@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ibrahim Sadek | Mohamed Elawady Webpage</title>
+    <link>https://mawady.github.io/author/ibrahim-sadek/</link>
+      <atom:link href="https://mawady.github.io/author/ibrahim-sadek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ibrahim Sadek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 12 Jul 2017 04:12:19 +0200</lastBuildDate>
+    <image>
+      <url>https://mawady.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ibrahim Sadek</title>
+      <link>https://mawady.github.io/author/ibrahim-sadek/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Classification of Bright Retinal Lesions via Deep Network Features</title>
+      <link>https://mawady.github.io/publication/ret-cls/</link>
+      <pubDate>Wed, 12 Jul 2017 04:12:19 +0200</pubDate>
+      <guid>https://mawady.github.io/publication/ret-cls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Nonlinear Filtering and Segmentation for Breast Ultrasound Images</title>
+      <link>https://mawady.github.io/publication/bus-seg/</link>
+      <pubDate>Sun, 12 Jun 2016 04:03:45 +0200</pubDate>
+      <guid>https://mawady.github.io/publication/bus-seg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting and avoiding frontal obstacles from monocular camera for micro unmanned aerial vehicles</title>
+      <link>https://mawady.github.io/publication/drn-obs/</link>
+      <pubDate>Sun, 12 Jan 2014 04:59:20 +0200</pubDate>
+      <guid>https://mawady.github.io/publication/drn-obs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
