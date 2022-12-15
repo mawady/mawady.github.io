@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Data Science
+role: Teaching Fellow in Data Science
 
 # Organizations/Affiliations
 organizations:
-- name: University of Stirling
-  url: "https://www.stir.ac.uk"
+- name: University of Strathclyde
+  url: "https://www.strath.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A senior-level computer vision researcher with industrial and academic experience in image processing and robotics field over 10 years.
 
 interests:
 - Computer Vision
 - Image Processing and Analysis
-- Robotics Vision
+- Robotics/Embedded Vision
 
 education:
   courses:
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am an university lecturer in data science at university of Stirling. Previously, I was a lead computer vision researcher at Parisian startup [Qopius](https://qopius.com/). In 2019, i was awarded PhD degree in computer vision at Hubert Curien laboratory - Lyon university, under the supervision of [Christophe Ducottet](https://perso.univ-st-etienne.fr/ducottet/) (Leader, Image Analysis and Understanding team). I was previously a MSc intern at Heriot-Watt university, Edinburgh in the school of engineering and physical science, Vision lab under the supervision of [Neil M. Robertson](https://pure.qub.ac.uk/portal/en/persons/neil-robertson(41defca3-1fb7-41ed-b427-583d1baf7602).html) (Director of research for speech, image and vision systems, Queen's university of Belfast). In addition, i was awarded triple-degree 2-years european masters in Vision and Robotics [(VIBOT)](https://www.vibot.org/) with Erasmus Mundus scholarship (2012-2014). Plus, I am the winner of 2D reflection symmetry competitions (among participants) in ICCV'17 workshop: detecting symmetry in the Wild.
+I am a Teaching Fellow (Assistant Professor) in the department of Computer & Information Sciences at University of Strathclyde. On previous occasions I worked as a Lecturer in Data Science at University of Stirling, and a Lead Computer Vision Researcher at Parisian startup [Qopius](https://www.linkedin.com/company/qopius/). In 2019, i was awarded PhD degree in computer vision at Hubert Curien laboratory - Lyon university, under the supervision of [Christophe Ducottet](https://scholar.google.com/citations?user=oj8J16sAAAAJ&hl=fr) (Leader, Image Analysis and Understanding team). I was previously a MSc intern at Heriot-Watt university, Edinburgh in the school of engineering and physical science, Vision lab under the supervision of [Neil M. Robertson](https://scholar.google.com/citations?hl=fr&user=vMTJBGEAAAAJ) (Director of research for speech, image and vision systems, Queen's university of Belfast). In addition, i was awarded triple-degree 2-years european masters in Vision and Robotics [(VIBOT)](https://www.vibot.org/) with Erasmus Mundus scholarship (2012-2014). Plus, I am the winner of 2D reflection symmetry competitions (among participants) in ICCV'17 workshop: detecting symmetry in the Wild.

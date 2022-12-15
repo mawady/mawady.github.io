@@ -93,14 +93,14 @@ email = "mohamedelsayedelawady@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Computing Science & Mathematics, Faculty of Natural Sciences, University of Stirling, Airthrey Road", city = "Stirling", region = "Scotland", postcode = "FK9 4LA", country = "United Kingdom", country_code = "GB"}
+address = {street = "Computer & Information Sciences, Faculty of Science, University of Strathclyde, Livingstone Tower, 26 Richmond Street", city = "Glasgow", region = "Scotland", postcode = "G1 1XH", country = "United Kingdom", country_code = "GB"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "56.145487", longitude = "-3.920814"}
+coordinates = {latitude = "55.86113912296936", longitude = "-4.243489890683703"}
 
 # Directions for visitors to locate you.
-# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter Livingstone tower and take the lift to CIS reception on Floor 11"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
